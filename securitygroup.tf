@@ -1,5 +1,5 @@
-resource "aws_security_group" "sunnysecuritygroup" {
-  name        = "sunnysecuritygroup"
+resource "aws_security_group" "sunnydeepsecuritygroup" {
+  name        = "sunnydeepsecuritygroup"
   description = "allow ssh and http traffic"
 
   ingress {
