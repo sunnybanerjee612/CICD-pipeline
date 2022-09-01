@@ -1,3 +1,2 @@
-a fully automated CICD pipeline deployment from balaraju golla
-jenkins 
+a fully automated CICD pipeline deployment from sunny banerjee
 Terraform
